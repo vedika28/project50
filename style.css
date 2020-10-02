@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(193, 193, 206);
+}
+
+.intro p{
+    font-size: 18px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 130px;
+}
+
+.facts{
+    font-size: 20px;
+}
+
+.grid img{
+    background-color: rgb(219, 204, 219) ;
+}
+
+.intro{
+    background-color: rgb(211, 211, 211);
+}
